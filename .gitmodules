@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/yaki3355/chat_app_client.git
